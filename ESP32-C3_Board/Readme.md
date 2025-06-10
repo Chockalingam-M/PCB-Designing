@@ -1,1 +1,1 @@
-
+I’ve designed a PCB for the ESP32-C3 as my first hands-on attempt at circuit design using KiCad. This project helped me understand the complete workflow — from schematic creation to PCB layout. I followed along with a YouTube tutorial to guide the process and deepen my understanding of component placement, routing, and design rules.
